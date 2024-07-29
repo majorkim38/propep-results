@@ -1,0 +1,57 @@
+   Code                                   WEIGHT     D-H  DENS     COMPOSITION
+      0 SODIUM NITRATE                    60,000   -1312  0,00001   1 N    3 O    1 NA 
+      0 SUCROSE (TABLE SUGAR)             30,000   -1550  0,00001  22 H   12 C   11 O  
+      0 ALUMINUM (PURE CRYSTALINE)         9,100       0  0,00001   1 AL 
+      0 IRON OXIDE                         0,900   -1230  0,00001   3 O    2 FE 
+ 
+THE PROPELLANT DENSITY IS  0,00001 LB/CU-IN OR   0,0003 GM/CC
+THE TOTAL PROPELLANT WEIGHT IS  100,0000 GRAMS
+ 
+NUMBER OF GRAM ATOMS OF EACH ELEMENT PRESENT IN INGREDIENTS
+ 
+    1,928088 H 
+    1,051684 C 
+    0,705891 N 
+    3,098623 O 
+    0,705891 NA
+    0,337287 AL
+    0,011271 FE
+ 
+****************************CHAMBER RESULTS FOLLOW   *****************************
+  T(K)  T(F)  P(ATM)   P(PSI) ENTHALPY  ENTROPY   CP/CV    GAS   RT/V
+  2336  3745    68,02  1000,00  -126,33   181,69  1,1526  2,610   26,059
+ 
+SPECIFIC HEAT (MOLAR) OF GAS AND TOTAL =    11,090    13,243 
+NUMBER MOLS GAS AND CONDENSED =     2,610    0,348
+
+ 6,705448e-001 H2O        6,131895e-001 CO         4,383919e-001 CO2        3,528726e-001 N2        
+ 3,372549e-001 NaAlO2&    2,493210e-001 NaHO       1,654621e-001 H2         1,142904e-001 Na        
+ 1,025285e-002 FeO*       2,045939e-003 NaH        9,548221e-004 FeH2O2     9,265707e-004 H         
+ 8,252019e-004 Na2        6,479224e-004 HO         5,600770e-004 Na2H2O2    1,536436e-004 NaO       
+ 5,244146e-005 NO         4,085696e-005 Fe         3,021707e-005 NaCN       1,340744e-005 NH3       
+ 6,606719e-006 FeO        4,082223e-006 O2         2,662598e-006 CHO        2,411670e-006 O         
+  1,62334E-06 CNH         1,62334E-06 CNH       
+
+THE MOLECULAR WEIGHT OF THE MIXTURE IS    33,807
+
+****************************EXHAUST RESULTS FOLLOW   *****************************
+  T(K)  T(F)  P(ATM)   P(PSI) ENTHALPY  ENTROPY   CP/CV    GAS   RT/V
+  1592  2406     1,00    14,70  -166,81   181,69  1,1431  2,413    0,414
+ 
+SPECIFIC HEAT (MOLAR) OF GAS AND TOTAL =    10,234    13,406 
+NUMBER MOLS GAS AND CONDENSED =     2,413    0,444
+
+ 6,596804e-001 H2O        5,209954e-001 CO         4,350243e-001 CO2        3,529184e-001 N2        
+ 3,372549e-001 NaAlO2&    2,665857e-001 H2         1,018818e-001 Na         9,559345e-002 Na2CO3*   
+ 7,493764e-002 NaHO       1,122964e-002 FeO&       1,937791e-004 NaH        1,351188e-004 Na2H2O2   
+ 6,993919e-005 Na2        4,001207e-005 H          2,349847e-005 FeH2O2     3,881971e-006 HO        
+  2,58594E-06 NaCN        2,58594E-06 NaCN      
+
+THE MOLECULAR WEIGHT OF THE MIXTURE IS    35,006
+
+ **********PERFORMANCE:  FROZEN ON FIRST LINE, SHIFTING ON SECOND LINE**********
+
+ IMPULSE   IS EX      T*      P*      C*    ISP*  OPT-EX  D-ISP      A*M   EX-T
+   183,9  1,1618    2161   38,91  3635,0            9,59    0,1  0,11301   1298
+   187,7 -1,5086    2334   67,51 19534,8   305,2    1,98    0,1  0,60730   1592
+

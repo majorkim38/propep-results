@@ -1,0 +1,51 @@
+   Code                                   WEIGHT     D-H  DENS     COMPOSITION
+      0 POTASSIUM NITRATE                 68,000   -1167  0,00001   1 N    3 O    1 K  
+      0 EPOXY 201                         24,000    -661  0,00001  24 H   16 C    4 O  
+      0 IRON OXIDE                         8,000   -1230  0,00001   3 O    2 FE 
+ 
+THE PROPELLANT DENSITY IS  0,00001 LB/CU-IN OR   0,0003 GM/CC
+THE TOTAL PROPELLANT WEIGHT IS  100,0000 GRAMS
+ 
+NUMBER OF GRAM ATOMS OF EACH ELEMENT PRESENT IN INGREDIENTS
+ 
+    2,054443 H 
+    1,369629 C 
+    0,672548 N 
+    2,510334 O 
+    0,672548 K 
+    0,100188 FE
+ 
+****************************CHAMBER RESULTS FOLLOW   *****************************
+  T(K)  T(F)  P(ATM)   P(PSI) ENTHALPY  ENTROPY   CP/CV    GAS   RT/V
+  1495  2231    68,02  1000,00  -105,06   155,67  1,1384  2,391   28,447
+ 
+SPECIFIC HEAT (MOLAR) OF GAS AND TOTAL =     8,901    13,826 
+NUMBER MOLS GAS AND CONDENSED =     2,391    0,435
+
+ 8,882430e-001 CO         7,207087e-001 H2         3,358498e-001 N2         3,345799e-001 K2CO3*    
+ 2,957519e-001 H2O        1,424555e-001 CO2        6,554711e-002 Fe&        3,461949e-002 FeO&      
+ 4,121595e-003 CH4        2,932006e-003 KHO        6,423801e-004 NH3        3,044110e-004 K         
+ 1,034313e-004 KCN        5,465842e-005 CNH        1,506246e-005 CH2O       1,272052e-005 K2H2O2    
+ 4,368440e-006 FeH2O2     2,843311e-006 KH         2,622773e-006 H          2,076651e-006 CNHO      
+
+THE MOLECULAR WEIGHT OF THE MIXTURE IS    35,385
+
+****************************EXHAUST RESULTS FOLLOW   *****************************
+  T(K)  T(F)  P(ATM)   P(PSI) ENTHALPY  ENTROPY   CP/CV    GAS   RT/V
+   985  1313     1,00    14,70  -129,21   155,67  1,1479  2,343    0,427
+ 
+SPECIFIC HEAT (MOLAR) OF GAS AND TOTAL =     8,387    13,003 
+NUMBER MOLS GAS AND CONDENSED =     2,343    0,436
+
+ 8,122653e-001 H2         7,720241e-001 CO         3,362587e-001 K2CO3&     3,361907e-001 N2        
+ 2,342689e-001 CO2        1,607240e-001 H2O        1,001689e-001 FeO&       2,701210e-002 CH4       
+  0,000116863 NH3         0,000116863 NH3         0,000116863 NH3       
+
+THE MOLECULAR WEIGHT OF THE MIXTURE IS    35,983
+
+ **********PERFORMANCE:  FROZEN ON FIRST LINE, SHIFTING ON SECOND LINE**********
+
+ IMPULSE   IS EX      T*      P*      C*    ISP*  OPT-EX  D-ISP      A*M   EX-T
+   142,5  1,1428    1395   39,17  2803,6            9,99    0,0  0,08716    882
+   145,0  1,1326    1403   39,31  2816,3   107,9   10,69    0,0  0,08755    985
+

@@ -1,0 +1,50 @@
+   Code                                   WEIGHT     D-H  DENS     COMPOSITION
+      0 AMMONIUM NITRATE                  60,000   -1090  0,00001   4 H    2 N    3 O  
+      0 HTPB (R-45HT)                     20,000    -367  0,00001 200 C  302 H    2 O  
+      0 MAGNESIUM (PURE CRYSTALINE)       20,000       0  0,00001   1 MG 
+ 
+THE PROPELLANT DENSITY IS  0,00001 LB/CU-IN OR   0,0003 GM/CC
+THE TOTAL PROPELLANT WEIGHT IS  100,0000 GRAMS
+ 
+NUMBER OF GRAM ATOMS OF EACH ELEMENT PRESENT IN INGREDIENTS
+ 
+    5,203694 H 
+    1,460592 C 
+    1,499100 N 
+    2,263257 O 
+    0,822368 MG
+ 
+****************************CHAMBER RESULTS FOLLOW   *****************************
+  T(K)  T(F)  P(ATM)   P(PSI) ENTHALPY  ENTROPY   CP/CV    GAS   RT/V
+  2074  3273    68,02  1000,00   -72,74   246,20  1,2250  4,769   14,265
+ 
+SPECIFIC HEAT (MOLAR) OF GAS AND TOTAL =     8,513     9,228 
+NUMBER MOLS GAS AND CONDENSED =     4,769    0,821
+
+ 2,554013e+000 H2         1,430037e+000 CO         8,214689e-001 MgO&       7,425595e-001 N2        
+ 1,426166e-002 CH4        1,301200e-002 CNH        9,441223e-003 H2O        1,119264e-003 H         
+ 1,096492e-003 CO2        9,182753e-004 NH3        8,444298e-004 C2H2       7,944003e-004 Mg        
+ 1,536744e-004 CH3        1,256426e-004 C2H4       7,806126e-005 MgH        3,364826e-005 CH2O      
+ 1,005433e-005 MgHO       6,683360e-006 CHO        5,971531e-006 CNHO       1,198526e-006 NH2       
+
+THE MOLECULAR WEIGHT OF THE MIXTURE IS    17,889
+
+****************************EXHAUST RESULTS FOLLOW   *****************************
+  T(K)  T(F)  P(ATM)   P(PSI) ENTHALPY  ENTROPY   CP/CV    GAS   RT/V
+  1052  1434     1,00    14,70  -130,84   246,20  1,2408  4,548    0,220
+ 
+SPECIFIC HEAT (MOLAR) OF GAS AND TOTAL =     7,868     8,470 
+NUMBER MOLS GAS AND CONDENSED =     4,548    0,949
+
+ 2,354554e+000 H2         1,199636e+000 CO         8,223484e-001 MgO&       7,493753e-001 N2        
+ 1,268069e-001 C&         1,099362e-001 H2O        6,844624e-002 CH4        6,563572e-002 CO2       
+  0,000289162 NH3         0,000289162 NH3       
+
+THE MOLECULAR WEIGHT OF THE MIXTURE IS    18,191
+
+ **********PERFORMANCE:  FROZEN ON FIRST LINE, SHIFTING ON SECOND LINE**********
+
+ IMPULSE   IS EX      T*      P*      C*    ISP*  OPT-EX  D-ISP      A*M   EX-T
+   222,7  1,2429    1849   37,84  4510,6            8,17    0,1  0,14022    909
+   224,9  1,2078    1891   38,30  4609,6   176,7    8,73    0,1  0,14330   1052
+

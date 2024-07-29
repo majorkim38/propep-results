@@ -1,0 +1,58 @@
+   Code                                   WEIGHT     D-H  DENS     COMPOSITION
+      0 POTASSIUM NITRATE                 80,800   -1167  0,00001   1 N    3 O    1 K  
+      0 CHARCOAL (MAPLE)                  16,200    -222  0,00001  79 C    3 H   14 O  
+      0 SULFUR                             3,000       0  0,00001   1 S  
+ 
+THE PROPELLANT DENSITY IS  0,00001 LB/CU-IN OR   0,0003 GM/CC
+THE TOTAL PROPELLANT WEIGHT IS  100,0000 GRAMS
+ 
+NUMBER OF GRAM ATOMS OF EACH ELEMENT PRESENT IN INGREDIENTS
+ 
+    0,041330 H 
+    1,088364 C 
+    0,799146 N 
+    2,590311 O 
+    0,093557 S 
+    0,799146 K 
+ 
+****************************CHAMBER RESULTS FOLLOW   *****************************
+  T(K)  T(F)  P(ATM)   P(PSI) ENTHALPY  ENTROPY   CP/CV    GAS   RT/V
+  2430  3914    68,02  1000,00   -97,89   130,50  1,0866  1,311   51,881
+ 
+SPECIFIC HEAT (MOLAR) OF GAS AND TOTAL =    11,566    19,612 
+NUMBER MOLS GAS AND CONDENSED =     1,311    0,355
+
+ 5,617828e-001 CO2        3,993968e-001 N2         3,110448e-001 K2CO3*     2,153690e-001 CO        
+ 4,522269e-002 K          4,403565e-002 K2SO4*     4,351278e-002 SO2        3,665137e-002 KHO       
+ 3,180394e-003 K2SO4      2,433602e-003 SO         2,087244e-003 H2O        3,791849e-004 KO        
+ 2,991068e-004 NO         1,482718e-004 K2         1,346707e-004 H2         1,082642e-004 CSO       
+ 8,894879e-005 HO         8,189963e-005 O2         6,172583e-005 S2         3,546523e-005 S         
+ 2,950654e-005 H          2,274221e-005 KH         1,720468e-005 S2O        1,439022e-005 HS        
+ 1,274603e-005 O          1,002290e-005 K2H2O2     8,899694e-006 S3         5,953460e-006 SO3       
+  3,09986E-06 KCN         3,09986E-06 KCN         3,09986E-06 KCN       
+
+THE MOLECULAR WEIGHT OF THE MIXTURE IS    60,015
+
+****************************EXHAUST RESULTS FOLLOW   *****************************
+  T(K)  T(F)  P(ATM)   P(PSI) ENTHALPY  ENTROPY   CP/CV    GAS   RT/V
+  1672  2551     1,00    14,70  -120,89   130,50  1,0948  1,376    0,727
+ 
+SPECIFIC HEAT (MOLAR) OF GAS AND TOTAL =    10,927    18,460 
+NUMBER MOLS GAS AND CONDENSED =     1,376    0,335
+
+ 6,052124e-001 CO2        3,995470e-001 N2         2,474933e-001 K2CO3*     2,355175e-001 CO        
+ 9,136797e-002 K          8,742536e-002 K2SO4*     3,479892e-002 KHO        4,082874e-003 SO2       
+ 2,879448e-003 H2O        1,505278e-003 K2SO4      3,401368e-004 H2         1,366744e-004 SO        
+ 8,446194e-005 CSO        5,483389e-005 S3         4,992450e-005 S2         3,911797e-005 K2        
+ 8,854655e-006 K2H2O2     3,978041e-006 KH         3,943596e-006 HS         3,568826e-006 H2S       
+ 2,450048e-006 H          2,228638e-006 KO         2,047960e-006 S          1,720454e-006 S2O       
+  1,01946E-06 HO        
+
+THE MOLECULAR WEIGHT OF THE MIXTURE IS    58,457
+
+ **********PERFORMANCE:  FROZEN ON FIRST LINE, SHIFTING ON SECOND LINE**********
+
+ IMPULSE   IS EX      T*      P*      C*    ISP*  OPT-EX  D-ISP      A*M   EX-T
+   140,5  1,0871    2328   39,96  2698,7           11,34    0,0  0,08390   1733
+   141,5  1,0762    2326   40,12  2695,2   103,1   11,42    0,0  0,08379   1672
+
