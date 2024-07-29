@@ -1,0 +1,50 @@
+   Code                                   WEIGHT     D-H  DENS     COMPOSITION
+      0 AMMONIUM PERCHLORATE              77,000    -601  0,00001   1 CL   4 H    1 N    4 O  
+      0 ERYTHRITOL                        23,000   -1731  0,00001   4 C   10 H    4 O  
+ 
+THE PROPELLANT DENSITY IS  0,00001 LB/CU-IN OR   0,0003 GM/CC
+THE TOTAL PROPELLANT WEIGHT IS  100,0000 GRAMS
+ 
+NUMBER OF GRAM ATOMS OF EACH ELEMENT PRESENT IN INGREDIENTS
+ 
+    4,504675 H 
+    0,753333 C 
+    0,655336 N 
+    3,374676 O 
+    0,655336 CL
+ 
+****************************CHAMBER RESULTS FOLLOW   *****************************
+  T(K)  T(F)  P(ATM)   P(PSI) ENTHALPY  ENTROPY   CP/CV    GAS   RT/V
+  2779  4542    68,02  1000,00   -86,09   231,83  1,1991  3,739   18,195
+ 
+SPECIFIC HEAT (MOLAR) OF GAS AND TOTAL =    11,966    11,969 
+NUMBER MOLS GAS AND CONDENSED =     3,739    0,000
+
+ 1,869012e+000 H2O        6,364270e-001 CO2        6,198114e-001 HCl        3,230449e-001 N2        
+ 1,168292e-001 CO         5,028623e-002 H2         4,184145e-002 HO         3,391704e-002 Cl        
+ 3,105306e-002 O2         9,180477e-003 NO         3,994348e-003 H          2,062518e-003 O         
+ 5,204294e-004 Cl2        2,631821e-004 HOCl       2,497153e-004 OCl        9,267841e-005 HO2       
+ 9,661936e-006 COCl       9,213023e-006 NO2        3,956128e-006 NHO        3,845214e-006 NOCl      
+  1,33025E-06 NHO2        1,33025E-06 NHO2        1,33025E-06 NHO2      
+
+THE MOLECULAR WEIGHT OF THE MIXTURE IS    26,747
+
+****************************EXHAUST RESULTS FOLLOW   *****************************
+  T(K)  T(F)  P(ATM)   P(PSI) ENTHALPY  ENTROPY   CP/CV    GAS   RT/V
+  1485  2214     1,00    14,70  -151,68   231,83  1,2229  3,661    0,273
+ 
+SPECIFIC HEAT (MOLAR) OF GAS AND TOTAL =    10,900    10,900 
+NUMBER MOLS GAS AND CONDENSED =     3,661    0,000
+
+ 1,895867e+000 H2O        7,254679e-001 CO2        6,552020e-001 HCl        3,276422e-001 N2        
+ 2,882623e-002 H2         2,779678e-002 CO         8,763865e-005 Cl         8,760749e-006 HO        
+  4,77825E-06 H         
+
+THE MOLECULAR WEIGHT OF THE MIXTURE IS    27,315
+
+ **********PERFORMANCE:  FROZEN ON FIRST LINE, SHIFTING ON SECOND LINE**********
+
+ IMPULSE   IS EX      T*      P*      C*    ISP*  OPT-EX  D-ISP      A*M   EX-T
+   232,1  1,2152    2509   38,20  4660,0            8,61    0,1  0,14487   1316
+   238,9  1,1535    2595   39,02  4770,0   183,1    9,03    0,1  0,14829   1485
+

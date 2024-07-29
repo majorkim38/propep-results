@@ -1,0 +1,46 @@
+   Code                                   WEIGHT     D-H  DENS     COMPOSITION
+      0 TACN                              76,000    -776  0,00001   1 CU   6 N   12 H    6 O  
+      0 AMMONIUM NITRATE                  24,000   -1090  0,00001   4 H    2 N    3 O  
+ 
+THE PROPELLANT DENSITY IS  0,00001 LB/CU-IN OR   0,0003 GM/CC
+THE TOTAL PROPELLANT WEIGHT IS  100,0000 GRAMS
+ 
+NUMBER OF GRAM ATOMS OF EACH ELEMENT PRESENT IN INGREDIENTS
+ 
+    4,766183 H 
+    2,383091 N 
+    2,682912 O 
+    0,297242 CU
+ 
+****************************CHAMBER RESULTS FOLLOW   *****************************
+  T(K)  T(F)  P(ATM)   P(PSI) ENTHALPY  ENTROPY   CP/CV    GAS   RT/V
+  1827  2830    68,02  1000,00   -85,14   208,45  1,2039  3,651   18,633
+ 
+SPECIFIC HEAT (MOLAR) OF GAS AND TOTAL =    10,762    11,276 
+NUMBER MOLS GAS AND CONDENSED =     3,651    0,149
+
+ 2,382180e+000 H2O        1,189754e+000 N2         1,486117e-001 Cu2O*      7,348388e-002 O2        
+ 3,531713e-003 NO         1,499361e-003 HO         1,406096e-004 H2         2,003954e-005 NO2       
+ 1,224909e-005 HO2        9,843841e-006 O          9,129043e-006 Cu         1,756900e-006 NHO2      
+  1,48398E-06 NHO2        1,48398E-06 NHO2        1,48398E-06 NHO2      
+
+THE MOLECULAR WEIGHT OF THE MIXTURE IS    26,321
+
+****************************EXHAUST RESULTS FOLLOW   *****************************
+  T(K)  T(F)  P(ATM)   P(PSI) ENTHALPY  ENTROPY   CP/CV    GAS   RT/V
+   973  1292     1,00    14,70  -126,35   208,45  1,2419  3,576    0,280
+ 
+SPECIFIC HEAT (MOLAR) OF GAS AND TOTAL =     9,110     9,420 
+NUMBER MOLS GAS AND CONDENSED =     3,576    0,297
+
+ 2,383075e+000 H2O        1,191528e+000 N2         2,972309e-001 CuO&       1,276615e-003 O2        
+  2,48652E-06 NO        
+
+THE MOLECULAR WEIGHT OF THE MIXTURE IS    25,819
+
+ **********PERFORMANCE:  FROZEN ON FIRST LINE, SHIFTING ON SECOND LINE**********
+
+ IMPULSE   IS EX      T*      P*      C*    ISP*  OPT-EX  D-ISP      A*M   EX-T
+   184,8  1,2294    1639   38,01  3709,4            8,38    0,1  0,11532    831
+   189,4  1,1681    1686   38,83  3831,0   146,3    9,07    0,1  0,11910    973
+

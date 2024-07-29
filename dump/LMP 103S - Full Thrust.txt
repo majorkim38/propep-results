@@ -1,0 +1,48 @@
+   Code                                   WEIGHT     D-H  DENS     COMPOSITION
+      0 AMMONIUM DINITRAMIDE              65,000    -285  0,00001   4 H    4 N    4 O  
+      0 METHANOL                          20,000   -1780  0,00001   4 H    1 C    1 O  
+      0 AMMONIA (LIQUID)                   6,000   -1004  0,00001   3 H    1 N  
+      0 WATER                              9,000   -3792  0,00001   2 H    1 O  
+ 
+THE PROPELLANT DENSITY IS  0,00001 LB/CU-IN OR   0,0003 GM/CC
+THE TOTAL PROPELLANT WEIGHT IS  100,0000 GRAMS
+ 
+NUMBER OF GRAM ATOMS OF EACH ELEMENT PRESENT IN INGREDIENTS
+ 
+    6,648283 H 
+    0,624161 C 
+    2,447970 N 
+    3,219409 O 
+ 
+****************************CHAMBER RESULTS FOLLOW   *****************************
+  T(K)  T(F)  P(ATM)   P(PSI) ENTHALPY  ENTROPY   CP/CV    GAS   RT/V
+  1896  2953    68,02  1000,00   -94,28   275,56  1,2378  5,172   13,152
+ 
+SPECIFIC HEAT (MOLAR) OF GAS AND TOTAL =    10,342    10,342 
+NUMBER MOLS GAS AND CONDENSED =     5,172    0,000
+
+ 2,363646e+000 H2O        1,223793e+000 N2         9,598331e-001 H2         3,925466e-001 CO        
+ 2,315589e-001 CO2        3,375711e-004 NH3        2,076431e-004 H          4,252947e-005 HO        
+ 3,925682e-006 CNH        3,378845e-006 CH2O       2,412845e-006 CH4        1,396939e-006 NO        
+  1,11445E-06 CNHO      
+
+THE MOLECULAR WEIGHT OF THE MIXTURE IS    19,335
+
+****************************EXHAUST RESULTS FOLLOW   *****************************
+  T(K)  T(F)  P(ATM)   P(PSI) ENTHALPY  ENTROPY   CP/CV    GAS   RT/V
+   834  1043     1,00    14,70  -150,23   275,56  1,2953  5,130    0,195
+ 
+SPECIFIC HEAT (MOLAR) OF GAS AND TOTAL =     8,717     8,717 
+NUMBER MOLS GAS AND CONDENSED =     5,130    0,000
+
+ 2,099272e+000 H2O        1,223666e+000 N2         1,182194e+000 H2         5,168518e-001 CO2       
+    0,0863799 CO            0,0863799 CO            0,0863799 CO        
+
+THE MOLECULAR WEIGHT OF THE MIXTURE IS    19,494
+
+ **********PERFORMANCE:  FROZEN ON FIRST LINE, SHIFTING ON SECOND LINE**********
+
+ IMPULSE   IS EX      T*      P*      C*    ISP*  OPT-EX  D-ISP      A*M   EX-T
+   219,0  1,2708    1670   37,49  4439,9            7,77    0,1  0,13803    771
+   220,7  1,2293    1703   38,01  4558,3   175,2    8,05    0,1  0,14171    834
+

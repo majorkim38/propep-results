@@ -1,0 +1,57 @@
+   Code                                   WEIGHT     D-H  DENS     COMPOSITION
+      0 LITHIUM NITRATE                   60,000   -1670  0,00001   1 LI   1 N    3 O  
+      0 ERYTHRITOL                        30,000   -1731  0,00001   4 C   10 H    4 O  
+      0 ALUMINUM (PURE CRYSTALINE)         9,100       0  0,00001   1 AL 
+      0 IRON OXIDE                         0,900   -1230  0,00001   3 O    2 FE 
+ 
+THE PROPELLANT DENSITY IS  0,00001 LB/CU-IN OR   0,0003 GM/CC
+THE TOTAL PROPELLANT WEIGHT IS  100,0000 GRAMS
+ 
+NUMBER OF GRAM ATOMS OF EACH ELEMENT PRESENT IN INGREDIENTS
+ 
+    2,456520 H 
+    0,870221 LI
+    0,982608 C 
+    0,870221 N 
+    3,610178 O 
+    0,337287 AL
+    0,011271 FE
+ 
+****************************CHAMBER RESULTS FOLLOW   *****************************
+  T(K)  T(F)  P(ATM)   P(PSI) ENTHALPY  ENTROPY   CP/CV    GAS   RT/V
+  2371  3809    68,02  1000,00  -153,24   206,65  1,1384  2,814   24,173
+ 
+SPECIFIC HEAT (MOLAR) OF GAS AND TOTAL =    11,966    14,117 
+NUMBER MOLS GAS AND CONDENSED =     2,814    0,444
+
+ 8,509769e-001 H2O        5,595090e-001 CO2        4,350086e-001 N2         4,230301e-001 CO        
+ 4,216249e-001 LiHO       3,372528e-001 LiAlO2*    1,114518e-001 H2         9,683093e-002 LiHO*     
+ 9,859920e-003 FeO*       4,017022e-003 Li2H2O2    2,450057e-003 Li         1,898652e-003 Li2O      
+ 1,354171e-003 FeH2O2     1,297902e-003 HO         9,404192e-004 H          1,481192e-004 NO        
+ 1,394839e-004 LiH        5,562892e-005 LiO        3,100261e-005 Fe         2,300713e-005 O2        
+ 1,003871e-005 FeO        7,326667e-006 NH3        7,233654e-006 O          4,781860e-006 Li2O2     
+  1,63353E-06 CHO       
+
+THE MOLECULAR WEIGHT OF THE MIXTURE IS    30,693
+
+****************************EXHAUST RESULTS FOLLOW   *****************************
+  T(K)  T(F)  P(ATM)   P(PSI) ENTHALPY  ENTROPY   CP/CV    GAS   RT/V
+  1684  2572     1,00    14,70  -199,70   206,65  1,1432  2,760    0,362
+ 
+SPECIFIC HEAT (MOLAR) OF GAS AND TOTAL =    11,255    13,439 
+NUMBER MOLS GAS AND CONDENSED =     2,760    0,498
+
+ 9,436323e-001 H2O        6,156384e-001 CO2        4,350854e-001 N2         3,669014e-001 CO        
+ 3,372528e-001 LiAlO2&    2,270854e-001 LiHO       1,682128e-001 H2         1,497024e-001 Li2O&     
+ 1,118516e-002 FeO*       2,710754e-003 Li2H2O2    6,516342e-004 Li         1,839425e-004 Li2O      
+ 8,656416e-005 H          6,784782e-005 FeH2O2     2,462685e-005 HO         8,381988e-006 LiH       
+  1,12549E-06 Fe        
+
+THE MOLECULAR WEIGHT OF THE MIXTURE IS    30,689
+
+ **********PERFORMANCE:  FROZEN ON FIRST LINE, SHIFTING ON SECOND LINE**********
+
+ IMPULSE   IS EX      T*      P*      C*    ISP*  OPT-EX  D-ISP      A*M   EX-T
+   194,8  1,1434    2212   39,16  3828,4            9,98    0,1  0,11902   1397
+   201,1  1,1342    2209   39,33  3854,7   147,4   11,35    0,1  0,11983   1684
+
