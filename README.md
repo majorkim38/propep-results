@@ -9,7 +9,7 @@ ProPep 3 is freely available at: https://www.rimworld.com/loggerusb/propep3/intr
 
 A guide on how to use GUIPEP can be found at Richard Nakka's amazing website: http://www.nakka-rocketry.net/th_prope.html
 
-Note: due to unknown reasons, ProPep 3 doesn't calculate the density, despite having all the required data in PEPCODED.DAF
+Note: due to unknown reasons, ProPep 3 doesn't calculate the density properly, despite having all the required data in PEPCODED.DAF
 
 For the ease of comparison, everything (unless noted) is calculated at standard conditions:
 
