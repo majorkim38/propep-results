@@ -1,5 +1,7 @@
 # propep-results
-Attempt at creating database of solid propellants
+Attempt at creating database of solid rocket propellants
+
+The plan is to create sortable tables for easy comparison of propellants
 
 Everything here is calculated using Dave Cooper's ProPep 3 v1.0.3, version of the PROPEP termochemical code. 
 
