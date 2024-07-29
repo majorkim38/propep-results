@@ -1,0 +1,49 @@
+   Code                                   WEIGHT     D-H  DENS     COMPOSITION
+      0 LITHIUM NITRATE                   65,000   -1670  0,00001   1 LI   1 N    3 O  
+      0 SORBITOL                          35,000   -1776  0,00001   6 C   14 H    6 O  
+ 
+THE PROPELLANT DENSITY IS  0,00001 LB/CU-IN OR   0,0003 GM/CC
+THE TOTAL PROPELLANT WEIGHT IS  100,0000 GRAMS
+ 
+NUMBER OF GRAM ATOMS OF EACH ELEMENT PRESENT IN INGREDIENTS
+ 
+    2,689677 H 
+    0,942740 LI
+    1,152719 C 
+    0,942740 N 
+    3,980937 O 
+ 
+****************************CHAMBER RESULTS FOLLOW   *****************************
+  T(K)  T(F)  P(ATM)   P(PSI) ENTHALPY  ENTROPY   CP/CV    GAS   RT/V
+  2051  3232    68,02  1000,00  -170,71   203,88  1,1158  2,593   26,229
+ 
+SPECIFIC HEAT (MOLAR) OF GAS AND TOTAL =    12,365    14,442 
+NUMBER MOLS GAS AND CONDENSED =     2,593    0,846
+
+ 1,032765e+000 CO2        8,525017e-001 H2O        8,455394e-001 LiHO*      4,713200e-001 N2        
+ 1,199012e-001 CO         9,400441e-002 LiHO       2,087798e-002 H2         1,479947e-003 Li2H2O2   
+ 2,936118e-004 HO         7,482956e-005 Li         6,483430e-005 Li2O       6,438579e-005 H         
+ 5,252374e-005 NO         1,119299e-005 O2         2,280947e-006 LiO        2,242684e-006 LiH       
+   1,0298E-06 NH3       
+
+THE MOLECULAR WEIGHT OF THE MIXTURE IS    29,078
+
+****************************EXHAUST RESULTS FOLLOW   *****************************
+  T(K)  T(F)  P(ATM)   P(PSI) ENTHALPY  ENTROPY   CP/CV    GAS   RT/V
+  1505  2250     1,00    14,70  -211,07   203,88  1,1155  2,531    0,395
+ 
+SPECIFIC HEAT (MOLAR) OF GAS AND TOTAL =    11,242    16,276 
+NUMBER MOLS GAS AND CONDENSED =     2,531    0,454
+
+ 1,265958e+000 H2O        6,195434e-001 CO2        4,713459e-001 N2         4,543546e-001 Li2CO3*   
+ 7,876986e-002 CO         6,185338e-002 H2         3,297420e-002 LiHO       5,061913e-004 Li2H2O2   
+ 1,220526e-005 Li         7,390873e-006 H          4,508193e-006 HO         1,892777e-006 Li2O      
+
+THE MOLECULAR WEIGHT OF THE MIXTURE IS    33,496
+
+ **********PERFORMANCE:  FROZEN ON FIRST LINE, SHIFTING ON SECOND LINE**********
+
+ IMPULSE   IS EX      T*      P*      C*    ISP*  OPT-EX  D-ISP      A*M   EX-T
+   177,0  1,1189    1936   39,50  3447,3           10,53    0,0  0,10717   1310
+   187,4  1,0806    1967   40,79  3329,1   133,5   11,55    0,1  0,10349   1505
+

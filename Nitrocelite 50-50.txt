@@ -1,0 +1,52 @@
+   Code                                   WEIGHT     D-H  DENS     COMPOSITION
+      0 AMMONIUM PERCHLORATE              50,000    -601  0,00001   1 CL   4 H    1 N    4 O  
+      0 NITROCELLULOSE (12.6PERCENT N)    50,000    -617  0,00001 755 H  600 C  245 N  990 O  
+ 
+THE PROPELLANT DENSITY IS  0,00001 LB/CU-IN OR   0,0003 GM/CC
+THE TOTAL PROPELLANT WEIGHT IS  100,0000 GRAMS
+ 
+NUMBER OF GRAM ATOMS OF EACH ELEMENT PRESENT IN INGREDIENTS
+ 
+    3,088021 H 
+    1,101338 C 
+    0,875256 N 
+    3,519378 O 
+    0,425543 CL
+ 
+****************************CHAMBER RESULTS FOLLOW   *****************************
+  T(K)  T(F)  P(ATM)   P(PSI) ENTHALPY  ENTROPY   CP/CV    GAS   RT/V
+  3071  5069    68,02  1000,00   -60,90   224,68  1,2005  3,491   19,488
+ 
+SPECIFIC HEAT (MOLAR) OF GAS AND TOTAL =    11,893    11,898 
+NUMBER MOLS GAS AND CONDENSED =     3,491    0,000
+
+ 1,255309e+000 H2O        8,415240e-001 CO2        4,240636e-001 N2         3,746183e-001 HCl       
+ 2,597196e-001 CO         9,749642e-002 O2         8,741699e-002 HO         5,226041e-002 H2        
+ 4,913608e-002 Cl         2,700613e-002 NO         1,017381e-002 O          1,014125e-002 H         
+ 5,937460e-004 OCl        4,053245e-004 Cl2        3,106777e-004 HOCl       3,051129e-004 HO2       
+ 3,929246e-005 NO2        2,424569e-005 COCl       1,263127e-005 NHO        9,039809e-006 NOCl      
+ 4,436522e-006 N2O        3,887314e-006 NHO2       3,633312e-006 CHO        3,458714e-006 NHO2      
+  3,21025E-06 N           3,21025E-06 N         
+
+THE MOLECULAR WEIGHT OF THE MIXTURE IS    28,648
+
+****************************EXHAUST RESULTS FOLLOW   *****************************
+  T(K)  T(F)  P(ATM)   P(PSI) ENTHALPY  ENTROPY   CP/CV    GAS   RT/V
+  1934  3021     1,00    14,70  -131,75   224,68  1,2010  3,305    0,303
+ 
+SPECIFIC HEAT (MOLAR) OF GAS AND TOTAL =    11,874    11,875 
+NUMBER MOLS GAS AND CONDENSED =     3,305    0,000
+
+ 1,327090e+000 H2O        1,078925e+000 CO2        4,372457e-001 N2         4,181127e-001 HCl       
+ 2,234389e-002 CO         7,277931e-003 Cl         6,365552e-003 H2         4,243444e-003 O2        
+ 2,771551e-003 HO         7,144666e-004 NO         1,480514e-004 H          4,980836e-005 Cl2       
+  4,68172E-05 O           4,68172E-05 O           4,68172E-05 O         
+
+THE MOLECULAR WEIGHT OF THE MIXTURE IS    30,253
+
+ **********PERFORMANCE:  FROZEN ON FIRST LINE, SHIFTING ON SECOND LINE**********
+
+ IMPULSE   IS EX      T*      P*      C*    ISP*  OPT-EX  D-ISP      A*M   EX-T
+   235,9  1,2132    2776   38,22  4741,3            8,64    0,1  0,14740   1463
+   248,3  1,1157    2934   39,55  4955,1   187,4    9,83    0,1  0,15404   1934
+
