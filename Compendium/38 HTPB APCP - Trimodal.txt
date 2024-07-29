@@ -1,0 +1,62 @@
+   Code                                   WEIGHT     D-H  DENS     COMPOSITION
+      0 AMMONIUM PERCHLORATE              62,000    -601  0,00001   1 CL   4 H    1 N    4 O  
+      0 HTPB (R-45HT)                     16,500    -367  0,00001 200 C  302 H    2 O  
+      0 ALUMINUM (PURE CRYSTALINE)        21,000       0  0,00001   1 AL 
+      0 Chromium Oxide (Cr2O3)             0,500   -1784  0,00001   2 CR   3 O  
+ 
+THE PROPELLANT DENSITY IS  0,00001 LB/CU-IN OR   0,0003 GM/CC
+THE TOTAL PROPELLANT WEIGHT IS  100,0000 GRAMS
+ 
+NUMBER OF GRAM ATOMS OF EACH ELEMENT PRESENT IN INGREDIENTS
+ 
+    3,930224 H 
+    1,204988 C 
+    0,527673 N 
+    2,132609 O 
+    0,778354 AL
+    0,527673 CL
+    0,006578 CR
+ 
+****************************CHAMBER RESULTS FOLLOW   *****************************
+  T(K)  T(F)  P(ATM)   P(PSI) ENTHALPY  ENTROPY   CP/CV    GAS   RT/V
+  2965  4878    68,02  1000,00   -44,21   224,75  1,1882  3,794   17,929
+ 
+SPECIFIC HEAT (MOLAR) OF GAS AND TOTAL =     8,941    11,634 
+NUMBER MOLS GAS AND CONDENSED =     3,794    0,297
+
+ 1,764247e+000 H2         1,200344e+000 CO         2,968484e-001 Al2O3*     2,911321e-001 HCl       
+ 2,629939e-001 N2         1,315933e-001 AlCl       4,449452e-002 H          3,946348e-002 AlCl2     
+ 3,094373e-002 H2O        6,380772e-003 Cr         6,375268e-003 AlCl3      4,995102e-003 Cl        
+ 2,918646e-003 CO2        1,820597e-003 AlOCl      1,445014e-003 CNH        1,245383e-003 Al        
+ 1,229724e-003 Al2O       1,048863e-003 AlHO       4,701914e-004 AlH        2,580607e-004 HO        
+ 1,568117e-004 NH3        1,522790e-004 CrO        8,502508e-005 AlO        7,540883e-005 CHO       
+ 6,006729e-005 AlHO2      3,980780e-005 CH4        2,273087e-005 CH3        2,159422e-005 CH2O      
+ 1,421865e-005 C2H2       1,372344e-005 NH2        1,168566e-005 COCl       1,000611e-005 NO        
+ 5,527627e-006 Cl2        4,818087e-006 Al2O2      4,487085e-006 CN         4,035653e-006 CNHO      
+ 3,948473e-006 O          1,757515e-006 NH         1,340171e-006 N          1,258886e-006 CNCl      
+  1,21549E-06 CH2         1,21549E-06 CH2       
+
+THE MOLECULAR WEIGHT OF THE MIXTURE IS    24,444
+
+****************************EXHAUST RESULTS FOLLOW   *****************************
+  T(K)  T(F)  P(ATM)   P(PSI) ENTHALPY  ENTROPY   CP/CV    GAS   RT/V
+  1829  2833     1,00    14,70  -117,41   224,75  1,2095  3,650    0,274
+ 
+SPECIFIC HEAT (MOLAR) OF GAS AND TOTAL =     8,567    10,478 
+NUMBER MOLS GAS AND CONDENSED =     3,650    0,346
+
+ 1,847205e+000 H2         1,170488e+000 CO         3,206070e-001 Al2O3&     2,613685e-001 N2        
+ 2,259800e-001 HCl        6,695810e-002 AlCl3      3,963490e-002 AlCl       3,050447e-002 AlCl2     
+ 2,365157e-002 C&         4,872757e-003 CNH        2,163789e-003 Cr3C2&     1,184873e-003 H         
+ 6,034427e-004 CH4        4,669865e-004 C2H2       1,466305e-004 H2O        1,101035e-004 Cl        
+ 4,371967e-005 Cr         2,370155e-005 CO2        9,853844e-006 NH3        9,583346e-006 CH3       
+ 5,947456e-006 AlOCl      4,055863e-006 C2H4       2,729392e-006 Al         1,032006e-006 AlHO      
+
+THE MOLECULAR WEIGHT OF THE MIXTURE IS    25,024
+
+ **********PERFORMANCE:  FROZEN ON FIRST LINE, SHIFTING ON SECOND LINE**********
+
+ IMPULSE   IS EX      T*      P*      C*    ISP*  OPT-EX  D-ISP      A*M   EX-T
+   244,0  1,1954    2701   38,46  4890,5            8,95    0,1  0,15203   1487
+   252,4  1,1408    2781   39,21  4988,3   191,0   10,03    0,1  0,15508   1829
+
