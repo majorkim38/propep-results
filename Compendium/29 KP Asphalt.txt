@@ -1,0 +1,56 @@
+   Code                                   WEIGHT     D-H  DENS     COMPOSITION
+      0 POTASSIUM PERCHLORATE (KCLO4)     75,000    -742  0,00001   1 CL   1 K    4 O  
+      0 BITUMEN (ASPHALT)                 25,000    -351  0,00001  84 C   11 H    3 O    1 N    1 S  
+ 
+THE PROPELLANT DENSITY IS  0,00001 LB/CU-IN OR   0,0003 GM/CC
+THE TOTAL PROPELLANT WEIGHT IS  100,0000 GRAMS
+ 
+NUMBER OF GRAM ATOMS OF EACH ELEMENT PRESENT IN INGREDIENTS
+ 
+    0,246839 H 
+    1,884953 C 
+    0,022440 N 
+    2,232493 O 
+    0,022440 S 
+    0,541293 CL
+    0,541293 K 
+ 
+****************************CHAMBER RESULTS FOLLOW   *****************************
+  T(K)  T(F)  P(ATM)   P(PSI) ENTHALPY  ENTROPY   CP/CV    GAS   RT/V
+  2081  3286    68,02  1000,00   -64,43   151,51  1,2476  2,457   27,682
+ 
+SPECIFIC HEAT (MOLAR) OF GAS AND TOTAL =    10,049    10,014 
+NUMBER MOLS GAS AND CONDENSED =     2,457    0,000
+
+ 1,589055e+000 CO         3,175049e-001 KCl        2,906292e-001 CO2        1,094085e-001 K2Cl2     
+ 6,032210e-002 H2         5,345831e-002 H2O        1,118930e-002 N2         5,339877e-003 H2S       
+ 5,161936e-003 CSO        4,902752e-003 HCl        2,725289e-003 KHO        2,724415e-003 S3        
+ 2,188267e-003 K          1,208574e-003 S2         7,326403e-004 HS         2,628529e-004 SO2       
+ 1,708096e-004 SO         1,292026e-004 H          3,519873e-005 S          2,152726e-005 CS2       
+ 1,347280e-005 HO         1,271074e-005 KH         1,110184e-005 S2O        7,716747e-006 Cl        
+ 6,487020e-006 S4         5,005194e-006 CS         4,119667e-006 KCN        2,208146e-006 CNH       
+  1,71092E-06 CH2O        1,71092E-06 CH2O      
+
+THE MOLECULAR WEIGHT OF THE MIXTURE IS    40,694
+
+****************************EXHAUST RESULTS FOLLOW   *****************************
+  T(K)  T(F)  P(ATM)   P(PSI) ENTHALPY  ENTROPY   CP/CV    GAS   RT/V
+  1335  1943     1,00    14,70   -96,57   151,51  1,1832  2,115    0,473
+ 
+SPECIFIC HEAT (MOLAR) OF GAS AND TOTAL =     9,309    10,688 
+NUMBER MOLS GAS AND CONDENSED =     2,115    0,425
+
+ 1,566715e+000 CO         4,248679e-001 KCl*       3,148943e-001 CO2        8,523169e-002 H2        
+ 6,502731e-002 KCl        3,251959e-002 H2O        2,557371e-002 K2Cl2      1,119146e-002 N2        
+ 5,474706e-003 H2S        4,462910e-003 S3         3,258696e-003 CSO        1,900013e-004 HCl       
+ 1,173684e-004 K          1,058094e-004 S2         9,188972e-005 KHO        2,357738e-005 HS        
+  8,02499E-06 CS2         8,02499E-06 CS2         8,02499E-06 CS2       
+
+THE MOLECULAR WEIGHT OF THE MIXTURE IS    39,372
+
+ **********PERFORMANCE:  FROZEN ON FIRST LINE, SHIFTING ON SECOND LINE**********
+
+ IMPULSE   IS EX      T*      P*      C*    ISP*  OPT-EX  D-ISP      A*M   EX-T
+   158,3  1,2610    1841   37,61  3229,3            7,90    0,0  0,10039    869
+   167,3  1,1638    1962   38,88  3344,4   128,2    9,55    0,0  0,10397   1335
+
