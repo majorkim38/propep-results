@@ -1,0 +1,42 @@
+    Potassium Nitrate/Sucrose (KNSU)
+    Potassium Nitrate/Sorbitol (KNSB)
+    Potassium Nitrate/Dextrose (KNDX)
+    Potassium Nitrate/Fructose (KNFR)
+    Potassium Nitrate/Erythritol (KNER)
+    Potassium Nitrate/Mannitol (KNMN)
+    Potassium Nitrate/Xylitol (KNXY)
+    Potassium Nitrate/Epoxy (RNX)
+    Potassium Nitrate/Sorbitol/Aluminum
+    Sodium Nitrate/Sucrose/Iron Oxide
+    Sodium Nitrate/Sucrose/Iron Oxide/Aluminum
+    Sodium Nitrate/Sorbitol/Iron Oxide/Aluminum
+    Zinc/sulfur (or Micrograin)
+    Blackpowder
+    Ammonium Nitrate/Aluminum/Neoprene (A24)
+    Ammonium Nitrate/HTPB/Magnesium (Wickman)
+    Ammonium Nitrate/Urethane
+    Ammonium Nitrate/Aluminum/Stearic Acid
+    Ammonium Perchlorate/Silicone II
+    Ammonium Perchlorate/PBAN/Epoxy
+    Ammonium Perchlorate/PBAN/Epoxy/Aluminum
+    Ammonium Perchlorate/HTPB/Aluminum
+    Ammonium Perchlorate/Epoxy/Iron
+    Ammonium Perchlorate/PVC
+    Potassium Perchlorate/Sucrose
+    Potassium Nitrate/ Potassium Perchlorate/Sorbitol
+    Potassium Nitrate/Aluminum/Polyurethane
+    Potassium Perchlorate/Epoxy
+    GALCIT
+    Potassium Perchlorate/Polyester
+    Ammonium Nitrate/Ammonium Perchlorate/Silicone
+    Ammonium Nitrate/Ammonium Perchlorate/Silicone
+    Ammonium Perchlorate/Silicone
+    Potassium Perchlorate/Silicone
+    Ammonium Perchlorate/Epoxy/Aluminum
+    Ammonium Perchlorate/Silicone II/Aluminum
+    Cherry Limeade
+    Ammonium Perchlorate/HTPB/Aluminum/Cr2O3
+    Kalinitrox
+    ALAN-5, ALAN-7
+    Reliant Robin
+    ALICE
