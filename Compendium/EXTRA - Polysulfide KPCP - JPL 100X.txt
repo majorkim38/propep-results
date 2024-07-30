@@ -1,0 +1,65 @@
+   Code                                   WEIGHT     D-H  DENS     COMPOSITION
+      0 AMMONIUM PERCHLORATE              12,000    -601  0,00001   1 CL   4 H    1 N    4 O  
+      0 POTASSIUM PERCHLORATE (KCLO4)     60,000    -742  0,00001   1 CL   1 K    4 O  
+      0 POLYSULPHIDE  LP2                 27,800    -589  0,00001 120 C  242 H   48 O   48 S  
+      0 IRON OXIDE                         0,200   -1230  0,00001   3 O    2 FE 
+ 
+THE PROPELLANT DENSITY IS  0,00001 LB/CU-IN OR   0,0003 GM/CC
+THE TOTAL PROPELLANT WEIGHT IS  100,0000 GRAMS
+ 
+NUMBER OF GRAM ATOMS OF EACH ELEMENT PRESENT IN INGREDIENTS
+ 
+    2,093613 H 
+    0,835583 C 
+    0,102130 N 
+    2,478650 O 
+    0,334233 S 
+    0,535165 CL
+    0,433035 K 
+    0,002505 FE
+ 
+****************************CHAMBER RESULTS FOLLOW   *****************************
+  T(K)  T(F)  P(ATM)   P(PSI) ENTHALPY  ENTROPY   CP/CV    GAS   RT/V
+  2627  4269    68,02  1000,00   -68,35   176,14  1,2090  2,678   25,402
+ 
+SPECIFIC HEAT (MOLAR) OF GAS AND TOTAL =    11,564    11,495 
+NUMBER MOLS GAS AND CONDENSED =     2,678    0,000
+
+ 8,096890e-001 H2O        4,554623e-001 CO         3,827271e-001 KCl        3,781869e-001 CO2       
+ 1,983246e-001 SO2        1,508338e-001 H2         1,113448e-001 HCl        5,093458e-002 N2        
+ 3,841129e-002 SO         1,771988e-002 K2Cl2      1,516016e-002 H2S        1,496867e-002 S2        
+ 1,237269e-002 KHO        1,164047e-002 S3         9,841663e-003 HS         4,307846e-003 HO        
+ 3,302796e-003 H          2,405272e-003 K          1,915226e-003 FeCl2      1,846454e-003 S2O       
+ 1,838053e-003 CSO        1,777143e-003 S          1,698430e-003 Cl         4,737706e-004 FeH2O2    
+ 1,891121e-004 NO         1,311715e-004 O2         5,976183e-005 O          4,864852e-005 S4        
+ 4,620610e-005 Fe         3,228564e-005 KH         1,794865e-005 SCl        1,710547e-005 SO3       
+ 1,669454e-005 KO         1,552165e-005 FeO        1,477276e-005 NS         1,114698e-005 FeS       
+ 8,484991e-006 FeCl       5,332251e-006 S2Cl       4,467951e-006 CHO        3,490988e-006 HOCl      
+ 3,462731e-006 Cl2        3,194727e-006 NH3        3,194209e-006 COCl       2,078420e-006 CS2       
+ 1,973562e-006 CS         1,340131e-006 FeCl3      1,025737e-006 OCl        1,021803e-006 CH2O      
+
+THE MOLECULAR WEIGHT OF THE MIXTURE IS    37,342
+
+****************************EXHAUST RESULTS FOLLOW   *****************************
+  T(K)  T(F)  P(ATM)   P(PSI) ENTHALPY  ENTROPY   CP/CV    GAS   RT/V
+  1601  2422     1,00    14,70  -113,31   176,14  1,2076  2,521    0,397
+ 
+SPECIFIC HEAT (MOLAR) OF GAS AND TOTAL =    11,571    11,559 
+NUMBER MOLS GAS AND CONDENSED =     2,521    0,000
+
+ 8,976505e-001 H2O        6,413836e-001 CO2        3,496220e-001 KCl        1,934009e-001 CO        
+ 9,742073e-002 HCl        9,018508e-002 H2         8,627713e-002 S3         5,114007e-002 SO2       
+ 5,103663e-002 N2         4,156049e-002 K2Cl2      9,805962e-003 H2S        5,491560e-003 S2        
+ 2,446969e-003 FeCl2      1,236342e-003 SO         7,100512e-004 CSO        5,313364e-004 HS        
+ 2,166308e-004 KHO        1,801559e-004 S2O        1,387370e-004 S4         3,222135e-005 K         
+ 2,621482e-005 H          2,233422e-005 Cl         1,972584e-005 FeH2O2     1,449550e-005 S         
+  1,05005E-05 HO        
+
+THE MOLECULAR WEIGHT OF THE MIXTURE IS    39,671
+
+ **********PERFORMANCE:  FROZEN ON FIRST LINE, SHIFTING ON SECOND LINE**********
+
+ IMPULSE   IS EX      T*      P*      C*    ISP*  OPT-EX  D-ISP      A*M   EX-T
+   190,0  1,2220    2365   38,11  3830,4            8,50    0,1  0,11908   1220
+   197,8  1,1378    2488   39,24  4007,9   151,1    9,63    0,1  0,12460   1601
+
