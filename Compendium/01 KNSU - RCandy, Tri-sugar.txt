@@ -1,0 +1,51 @@
+   Code                                   WEIGHT     D-H  DENS     COMPOSITION
+      0 POTASSIUM NITRATE                 64,000   -1167  0,00001   1 N    3 O    1 K  
+      0 SUCROSE (TABLE SUGAR)             28,000   -1550  0,00001  22 H   12 C   11 O  
+      0 DEXTROSE (GLUCOSE)                 6,000   -1689  0,00001   6 C   12 H    6 O  
+      0 FRUCTOSE                           2,000   -1680  0,00001   6 C   12 H    6 O  
+ 
+THE PROPELLANT DENSITY IS  0,00001 LB/CU-IN OR   0,0003 GM/CC
+THE TOTAL PROPELLANT WEIGHT IS  100,0000 GRAMS
+ 
+NUMBER OF GRAM ATOMS OF EACH ELEMENT PRESENT IN INGREDIENTS
+ 
+    2,332403 H 
+    1,247999 C 
+    0,632987 N 
+    3,065161 O 
+    0,632987 K 
+ 
+****************************CHAMBER RESULTS FOLLOW   *****************************
+  T(K)  T(F)  P(ATM)   P(PSI) ENTHALPY  ENTROPY   CP/CV    GAS   RT/V
+  1674  2554    68,02  1000,00  -131,58   166,81  1,1356  2,435   27,937
+ 
+SPECIFIC HEAT (MOLAR) OF GAS AND TOTAL =    10,378    14,783 
+NUMBER MOLS GAS AND CONDENSED =     2,435    0,306
+
+ 8,020526e-001 H2O        5,585568e-001 CO         3,831281e-001 CO2        3,541158e-001 H2        
+ 3,163976e-001 N2         3,062301e-001 K2CO3*     1,932809e-002 KHO        9,529720e-004 K         
+ 1,301482e-004 NH3        1,033731e-004 K2H2O2     1,533329e-005 CH4        1,298749e-005 H         
+ 1,003817e-005 KCN        8,325948e-006 KH         4,128280e-006 CH2O       4,061479e-006 CNH       
+   1,4531E-06 HO        
+
+THE MOLECULAR WEIGHT OF THE MIXTURE IS    36,482
+
+****************************EXHAUST RESULTS FOLLOW   *****************************
+  T(K)  T(F)  P(ATM)   P(PSI) ENTHALPY  ENTROPY   CP/CV    GAS   RT/V
+  1094  1509     1,00    14,70  -158,99   166,81  1,1442  2,414    0,414
+ 
+SPECIFIC HEAT (MOLAR) OF GAS AND TOTAL =     9,579    13,944 
+NUMBER MOLS GAS AND CONDENSED =     2,414    0,316
+
+ 6,569752e-001 H2O        5,272674e-001 CO2        5,089721e-001 H2         4,042312e-001 CO        
+ 3,164547e-001 N2         3,163955e-001 K2CO3&     1,647680e-004 KHO        5,173770e-005 CH4       
+  2,79724E-05 NH3         2,79724E-05 NH3       
+
+THE MOLECULAR WEIGHT OF THE MIXTURE IS    36,622
+
+ **********PERFORMANCE:  FROZEN ON FIRST LINE, SHIFTING ON SECOND LINE**********
+
+ IMPULSE   IS EX      T*      P*      C*    ISP*  OPT-EX  D-ISP      A*M   EX-T
+   152,5  1,1407    1564   39,20  2995,4           10,03    0,0  0,09312    995
+   154,5  1,1123    1587   39,60  3053,6   115,7   10,60    0,0  0,09493   1094
+
