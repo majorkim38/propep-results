@@ -1,0 +1,53 @@
+   Code                                   WEIGHT     D-H  DENS     COMPOSITION
+      0 AMMONIUM PERCHLORATE              72,750    -601  0,00001   1 CL   4 H    1 N    4 O  
+      0 SILICONE                          26,920   -1820  0,00001   6 H    2 C    1 O    1 SI 
+      0 CARBON BLACK                       0,330       0  0,00001   1 C  
+ 
+THE PROPELLANT DENSITY IS  0,00001 LB/CU-IN OR   0,0003 GM/CC
+THE TOTAL PROPELLANT WEIGHT IS  100,0000 GRAMS
+ 
+NUMBER OF GRAM ATOMS OF EACH ELEMENT PRESENT IN INGREDIENTS
+ 
+    4,654653 H 
+    0,753473 C 
+    0,619165 N 
+    2,839658 O 
+    0,362999 SI
+    0,619165 CL
+ 
+****************************CHAMBER RESULTS FOLLOW   *****************************
+  T(K)  T(F)  P(ATM)   P(PSI) ENTHALPY  ENTROPY   CP/CV    GAS   RT/V
+  2697  4395    68,02  1000,00   -92,72   226,77  1,1916  3,718   18,294
+ 
+SPECIFIC HEAT (MOLAR) OF GAS AND TOTAL =    10,394    11,280 
+NUMBER MOLS GAS AND CONDENSED =     3,718    0,356
+
+ 1,220290e+000 H2O        7,923041e-001 H2         6,127529e-001 HCl        6,114074e-001 CO        
+ 3,558694e-001 SiO2*      3,094009e-001 N2         1,419546e-001 CO2        1,169049e-002 H         
+ 6,995219e-003 SiO        6,265925e-003 Cl         4,694519e-003 HO         2,364104e-004 NO        
+ 9,199446e-005 SiO2       6,416781e-005 NH3        4,347430e-005 O          2,724345e-005 O2        
+ 2,505215e-005 Cl2        1,398557e-005 CHO        1,039414e-005 COCl       9,210440e-006 SiCl2     
+ 7,572126e-006 HOCl       6,152867e-006 CNH        5,146284e-006 CH2O       3,201260e-006 NH2       
+  1,42345E-06 CNHO        1,42345E-06 CNHO        1,42345E-06 CNHO      
+
+THE MOLECULAR WEIGHT OF THE MIXTURE IS    24,544
+
+****************************EXHAUST RESULTS FOLLOW   *****************************
+  T(K)  T(F)  P(ATM)   P(PSI) ENTHALPY  ENTROPY   CP/CV    GAS   RT/V
+  1374  2013     1,00    14,70  -154,38   226,77  1,2217  3,700    0,270
+ 
+SPECIFIC HEAT (MOLAR) OF GAS AND TOTAL =     9,252     9,970 
+NUMBER MOLS GAS AND CONDENSED =     3,700    0,363
+
+ 1,087307e+000 H2O        9,304003e-001 H2         6,190965e-001 HCl        4,804415e-001 CO        
+ 3,629630e-001 SiO2&      3,095481e-001 N2         2,729526e-001 CO2        1,278452e-005 NH3       
+  6,21085E-06 H           6,21085E-06 H         
+
+THE MOLECULAR WEIGHT OF THE MIXTURE IS    24,613
+
+ **********PERFORMANCE:  FROZEN ON FIRST LINE, SHIFTING ON SECOND LINE**********
+
+ IMPULSE   IS EX      T*      P*      C*    ISP*  OPT-EX  D-ISP      A*M   EX-T
+   229,4  1,2054    2446   38,33  4592,8            8,78    0,1  0,14278   1314
+   231,7  1,1835    2473   38,62  4634,8   178,9    8,96    0,1  0,14409   1374
+
