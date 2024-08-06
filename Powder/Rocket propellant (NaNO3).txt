@@ -1,0 +1,53 @@
+   Code                                   WEIGHT     D-H  DENS     COMPOSITION
+      0 SODIUM NITRATE                    69,000   -1312  0,00001   1 N    3 O    1 NA 
+      0 SULFUR                             4,000       0  0,00001   1 S  
+      0 CHARCOAL (MAPLE)                  27,000    -222  0,00001  79 C    3 H   14 O  
+ 
+THE PROPELLANT DENSITY IS  0,00001 LB/CU-IN OR   0,0003 GM/CC
+THE TOTAL PROPELLANT WEIGHT IS  100,0000 GRAMS
+ 
+NUMBER OF GRAM ATOMS OF EACH ELEMENT PRESENT IN INGREDIENTS
+ 
+    0,068884 H 
+    1,813941 C 
+    0,811774 N 
+    2,756781 O 
+    0,811774 NA
+    0,124743 S 
+ 
+****************************CHAMBER RESULTS FOLLOW   *****************************
+  T(K)  T(F)  P(ATM)   P(PSI) ENTHALPY  ENTROPY   CP/CV    GAS   RT/V
+  1940  3033    68,02  1000,00   -96,52   153,17  1,1293  1,992   34,156
+ 
+SPECIFIC HEAT (MOLAR) OF GAS AND TOTAL =     9,714    14,460 
+NUMBER MOLS GAS AND CONDENSED =     1,992    0,398
+
+ 1,168037e+000 CO         4,058032e-001 N2         3,694627e-001 CO2        2,753010e-001 Na2CO3*   
+ 1,231557e-001 Na2S*      1,847041e-002 H2O        1,344754e-002 H2         1,035618e-002 Na        
+ 4,249351e-003 NaHO       9,654034e-004 CSO        3,103503e-004 H2S        1,151344e-004 NaCN      
+ 5,051492e-005 NaH        5,037934e-005 SO2        4,083331e-005 HS         3,119185e-005 S2        
+ 2,783998e-005 S3         2,125694e-005 H          2,071729e-005 Na2        1,715427e-005 SO        
+ 3,696894e-006 CNH        2,656853e-006 HO         2,048331e-006 S          1,963288e-006 Na2H2O2   
+
+THE MOLECULAR WEIGHT OF THE MIXTURE IS    41,840
+
+****************************EXHAUST RESULTS FOLLOW   *****************************
+  T(K)  T(F)  P(ATM)   P(PSI) ENTHALPY  ENTROPY   CP/CV    GAS   RT/V
+  1241  1774     1,00    14,70  -122,43   153,17  1,1206  1,973    0,507
+ 
+SPECIFIC HEAT (MOLAR) OF GAS AND TOTAL =     9,193    15,312 
+NUMBER MOLS GAS AND CONDENSED =     1,973    0,406
+
+ 1,163474e+000 CO         4,058607e-001 N2         3,687583e-001 CO2        2,814121e-001 Na2CO3*   
+ 1,242907e-001 Na2S&      2,307959e-002 H2         1,116405e-002 H2O        2,754190e-004 Na        
+ 2,371099e-004 CSO        1,468936e-004 H2S        4,078062e-005 NaHO       2,735914e-006 NaCN      
+  2,35033E-06 S3        
+
+THE MOLECULAR WEIGHT OF THE MIXTURE IS    42,037
+
+ **********PERFORMANCE:  FROZEN ON FIRST LINE, SHIFTING ON SECOND LINE**********
+
+ IMPULSE   IS EX      T*      P*      C*    ISP*  OPT-EX  D-ISP      A*M   EX-T
+   149,4  1,1317    1821   39,33  2927,1           10,24    0,0  0,09100   1188
+   150,2  1,1216    1832   39,47  2946,1   112,4   10,47    0,0  0,09159   1241
+
