@@ -1,0 +1,3 @@
+Various powder compositions from PyroData: https://web.archive.org/web/20210726130108/https://pyrodata.com/composition/rocket-propellants
+All calculated with maple charcoal, since it gives better results
+Why? Cause I've read a story about Wan Hu
